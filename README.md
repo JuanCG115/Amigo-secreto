@@ -12,7 +12,7 @@ Una aplicación web simple para realizar un sorteo de "Amigo Secreto" de forma i
 
 ## Vista previa
 
-![Captura de pantalla](assets/amigo-secreto.png)
+![Captura de pantalla](assets/challenge.png)
 
 ## Tecnologías usadas
 
