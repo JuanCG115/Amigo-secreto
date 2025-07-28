@@ -8,7 +8,7 @@ Una aplicación web simple para realizar un sorteo de "Amigo Secreto" de forma i
 - Evita nombres duplicados.
 - Realiza un sorteo aleatorio de un nombre por turno.
 - Muestra el nombre sorteado y lo elimina del listado para no repetirlo.
-- Interfaz amigable y en español.
+- Interfaz amigable.
 
 ## Vista previa
 
